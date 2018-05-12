@@ -1,14 +1,8 @@
 _repo: What-Katy-Did-Next_8995
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 8995/8995-h/images/cover2a.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 8995/8995-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 8995-h/images/cover.jpg
 creator:
   author:
     agent_name: Coolidge, Susan
@@ -25,6 +19,8 @@ description: What Katy Did is an 1872 children's book written by Sarah Chauncey 
   scrapes but wishing to be beautiful and beloved. When a terrible accident makes
   her an invalid, her illness and four-year recovery gradually teach her to be as
   good and kind as she has always wanted.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8995#What-Katy-Did-Next
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
